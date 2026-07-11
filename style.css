@@ -19,7 +19,7 @@
     cursor: pointer;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url("images/amazon_logo.png");
     height:60px;
     width:100%;
     background-size: cover;
@@ -171,7 +171,7 @@ button:hover{
 
 .hero-section{
     height:570px;
-    background-image: url(hero-image.jpg);
+    background-image: url("images/hero-image.jpg");
     background-size: cover;
     margin-left: 9px;
     margin-right: 9px;
